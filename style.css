@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff5ee;
+    color: #333;
+}
+
+header, footer {
+    background-color: #f3c2c2;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+header h1, footer p {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #d2691e;
+}
+
+#ingredients-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#ingredients-list li {
+    background-color: #f0e4d7;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
